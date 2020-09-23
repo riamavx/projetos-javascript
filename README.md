@@ -18,6 +18,6 @@
 
 ## Deploy da Aplicação com Netlify: :dash:
 
-/* Aqui estamos usando a tag Quotes do markdown*/
 
-> https://certificates-for-everyone-womakerscode.netlify.app/
+
+> 
