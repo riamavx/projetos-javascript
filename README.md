@@ -16,8 +16,8 @@
 
 
 
-<!-- ## Deploy da Aplicação com Netlify: :dash: -->
+## Deploy da Aplicação com Vercel: :dash:
 
 
 
-<!-- >  -->
+> https://calculadora-javascript-mu.vercel.app/
