@@ -1,6 +1,6 @@
 <h1 align ="center"> Projetos Em Javascript</h1>
 
-<p align="justify"> O intuito desse projeto é revisar conteúdo abordado no bootcamp da Reprograma e criar novos <p>
+<p align="justify"> O intuito desses projetos é revisar conteúdo abordado no bootcamp da Reprograma e criar novos <p>
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-## Deploy da Aplicação com Vercel: :dash:
+## Deploy do Projeto Calculadora Feita com Vercel: :dash:
 
 
 
