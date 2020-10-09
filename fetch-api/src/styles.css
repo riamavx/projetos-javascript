@@ -1,0 +1,26 @@
+body{
+    background-color: #264653;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo{
+    color: #f1faee;
+    justify-content: center;
+    align-items: center;
+}
+
+small{
+    color: #f1faee
+}
+
+.form-control{
+    background-color: #f1faee;
+}
+
+label{
+    color: #f1faee
+}
